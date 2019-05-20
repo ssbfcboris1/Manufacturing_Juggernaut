@@ -8,6 +8,6 @@ This data-science project seeks to analyze the growth of China's manufacturing s
 
 https://github.com/ssbfcboris1/Manufacturing_Juggernaut/blob/master/Manufacturing%20Juggernaut%2C%20a%20data%20science%20project%20analyzing%20China's%20transition%20to%20advanced%20manufacturing%2C%20%2005-15-2019.pdf
 
-3. To conduct an in-depth analysis of who's actually paying for the US tariff hike, and which side, China or the U.S., is getting hurt more as a result, this Twitter thread from Simon Baptist of the EIU provides a good starting point and framework:
+3. To conduct an in-depth analysis of who's actually paying for Trump's tariff hike, and which side, China or the U.S., is getting hurt more as a result, this Twitter thread from Simon Baptist of the EIU provides a good starting point and framework:
 
 https://twitter.com/baptist_simon/status/1128298402633080
