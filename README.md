@@ -13,3 +13,7 @@ https://github.com/ssbfcboris1/Manufacturing_Juggernaut/blob/master/Manufacturin
 https://twitter.com/baptist_simon/status/1128298402633080832
 
 https://www.google.com/search?newwindow=1&safe=active&ei=ge_pXM46qKH5BrmjkrAF&q=Simon+Baptist+U.S.+China+trade+who%27s+paying+simon+baptist&oq=Simon+Baptist+U.S.+China+trade+who%27s+paying+simon+baptist&gs_l=psy-ab.3...16825.18616..19212...0.0..0.231.1342.0j5j2......0....1..gws-wiz.WmjjS4u8InU
+
+4. For a long-term trend analysis of the U.S. manufacturing sector, which has actually been booming in recent years, read this article:
+
+https://econofact.org/will-manufacturing-jobs-come-back
