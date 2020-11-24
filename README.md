@@ -2,7 +2,7 @@
 
 This data-science project seeks to analyze the growth of China's manufacturing sector over the past 40 years, and its recent effort at graduating to advanced manufacturing under the "Made in China 2025" initiative (including the application of artificial intelligence, IoT, and the 5G wireless network). Related topics include the ongoing U.S. - China trade war, the decline of high-paying manufacturing jobs in the U.S., and the cost and benefit of free trade.  
 
-1. China's ascent over the past 40 years as a manufacturing powerhouse ("the world's factory floor") started mostly with such low-cost, labor-intensive sectors as textile, apparel, footwear, and toys.   
+1. China's growth over the past 40 years as a manufacturing powerhouse ("the world's factory floor") started mostly with such low-cost, labor-intensive sectors as textile, apparel, footwear, and toys.   
 
 2. The rise of Huawei and its pre-eminence in the 5G mobile phone technology symbolizes China's transition to high-tech manufacturing.  This is confirmed by the World Bank's figure on each country's high-tech share of its total export of manufactured goods: 
 
